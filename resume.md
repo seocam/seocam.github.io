@@ -233,30 +233,6 @@ company CEO.
 
 * * *
 
-## References:
-
-### Interlegis
-
-  * Henrique Gouveia (Chief of Service) - Speaks: English and Portuguese
-  * Jean Ferri (Software Engineer) - Speaks: English and Portuguese
-
-### Lookat
-
-  * Alex Marrugat (CEO) - Speaks: English, Spanish, Catalan and French
-  * Matheus Brum (Software Engineer) - Speaks: English and Portuguese
-
-### House.ad
-
-  * Mohamed Taouil (Software Engineer) - Speaks: English, Spanish, Catalan, French and Berber
-  * Jeronimo Albi (Software Engineer) - Speaks: English and Spanish
-
-### Interzone Games
-
-  * Jairo Rozenblit (CMO) - Speaks: Portuguese and English
-  * Alexandre Vicent (Deployment Manager) - Speaks: English and French
-
-* * *
-
 ## Links:
 
 ### Relevant profiles
@@ -264,7 +240,7 @@ company CEO.
   * [GitHub - Personal](https://github.com/seocam/)
   * [GitHub - Tracy Web Technologies (company)](https://github.com/TracyWebTech/)
   * [Bitbucket - Personal](http://bitbucket.org/seocam/)
-  * [Linkedin (check recommendations)](http://www.linkedin.com/in/seocam)
+  * [Linkedin](http://www.linkedin.com/in/seocam)
 
 * * *
 
