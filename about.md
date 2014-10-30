@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a Geek, programmer and entrepreneur, with 9 years of experience in Web development and team management.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm also an Open Source enthusiast member of the Mozilla and Python communities and (cofounder of the Python Brasil Association).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Currently I work on research projects and also on my own company: Tracy Web Technologies.
+
+In my free time a love to bike, climb, cook and travel.
