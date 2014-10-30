@@ -4,9 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-# Sérgio Oliveira Campos \- Resume
+## Sérgio Oliveira Campos
 
-[Download PDF](sergio_campos_resume.pdf)
 
 Brazilian, Born on 1986-02-20  
 Living in Ribeirão Preto \- SP, Brazil  
@@ -43,7 +42,7 @@ Skype: seocam
   * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
   * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Redmine and Colab.
   * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
-  * URL: <http://www.softwarepublico.gov.br/>
+  * URL: <http://beta.softwarepublico.gov.br/>
 
 ### Interlegis (Federal Senate) - Brasília, Brazil
 
@@ -144,8 +143,7 @@ company CEO.
   * Period: May/2014 (present)
   * Github: <https://github.com/plone/>
 
-### Mozilla Representative ([Mozilla Reps
-program](https://wiki.mozilla.org/ReMo))
+### [Mozilla Rep](https://wiki.mozilla.org/ReMo)
 
   * Period: September/2011 (present) - Mentor since 2013
   * Responsibilities: 
@@ -169,14 +167,11 @@ program](https://wiki.mozilla.org/ReMo))
 
 ## Languages:
 
-Language | Listen | Read | Write | Speak  
----|---|---|---|---  
-**Portuguese:** | Native | Native | Native | Native  
-**English:** | Advanced | Advanced | Advanced | Advanced  
-**Spanish:** | Advanced | Advanced | Intermediate | Intermediate  
-**Catalan:** | Advanced | Intermediate | Intermediate | Intermediate  
- 
-
+  * **Portuguese:** Native
+  * **English:** Fluent
+  * **Spanish:** Fluent
+  * **Catalan:** Intermediate 
+  
 * * *
 
 ## Speeches Given:
@@ -272,11 +267,4 @@ Language | Listen | Read | Write | Speak
 
 * * *
 
-[ ![Spreadfirefox Affiliate Button](http://sfx-
-images.mozilla.org/affiliates/Buttons/firefox3/110x32_get_ffx.png)
-](http://www.mozilla.com/firefox?from%3Dsfx%26uid%3D252372%26t%3D306)
-
-Last update: Sep 03, 2014 15:36:18
-
-Check the [source code](https://github.com/seocam/resume)!
-
+Last update: {{ page.last_modified_at | date: '%b %d, %Y - %I:%M%P' }}
