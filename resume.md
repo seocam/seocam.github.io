@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+modified: Oct 30, 2014 - 08:19am
 ---
 
 ## Sérgio Oliveira Campos
@@ -267,4 +268,4 @@ company CEO.
 
 * * *
 
-Last update: {{ page.path | file_date | date: '%b %d, %Y - %I:%M%P' }}
+Last update: {{ page.modified }}
