@@ -9,3 +9,7 @@ github_username:  seocam
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
