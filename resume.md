@@ -267,4 +267,4 @@ company CEO.
 
 * * *
 
-Last update: {{ page.last_modified_at | date: '%b %d, %Y - %I:%M%P' }}
+Last update: {{ page.path | file_date | date: '%b %d, %Y - %I:%M%P' }}
