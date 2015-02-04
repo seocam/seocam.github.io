@@ -18,7 +18,7 @@ some kind of database. If everything looks good he will grant or deny you access
 On Internet it's not very different. The most common way of identity verification in the Web it's 
 password check. In this case the user choose a secret word (or phrase) during the registration
 process and everytime he wants to access the application he needs to tell the website what is his
-secret. If it matches the site will grant you access.
+secret. If it matches the site will grant you access back to your jouney.
 
 Bringing it back to the road example, 
 it would be something like instead of having a drivers license document (paper or card) you just
