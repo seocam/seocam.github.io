@@ -61,3 +61,5 @@ so most users reuse their passwords in many different places. So if you are a We
 storing user's passwords in your local database whenever it's possible for the Internet's sake.
 
 Author: @seocam
+
+Revisor: @marianamioto
