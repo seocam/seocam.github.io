@@ -18,6 +18,12 @@ Skype: seocam
 
 ## Education:
 
+### Pursuing graduate-level in Computer Science
+  * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
+  * Research area: Software Engineering
+  * Theme: A Reference Framework to Integrate Web Applications and Services
+  * Estimate Conclusion: November 2016
+
 ### B.Sc. in Informatics
 
   * Date: December 2007
