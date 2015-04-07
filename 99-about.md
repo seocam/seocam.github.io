@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Geek, programmer and entrepreneur, with 9 years of experience in Web development and team management.
+I'm a Geek, researcher, programmer and entrepreneur, with long experience in Web development and team management.
 
 I'm also an Open Source enthusiast member of the Mozilla and Python communities and (cofounder of the Python Brasil Association).
 
