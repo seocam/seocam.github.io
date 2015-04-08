@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: Oct 30, 2014 - 08:19am
+modified: Apr 08, 2015 - 14:18
 ---
 
 ## Sérgio Oliveira Campos
@@ -21,7 +21,7 @@ Skype: seocam
 ### Pursuing graduate-level in Computer Science
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
   * Research area: Software Engineering
-  * Theme: A Reference Framework to Integrate Web Applications and Services
+  * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications 
   * Estimate Conclusion: November 2016
 
 ### B.Sc. in Informatics
