@@ -4,6 +4,10 @@ title: Research
 permalink: /research/
 ---
 
+
+**Advisors**: [José Carlos Maldonado](http://lattes.cnpq.br/8807333466702951) - [Paulo Meirelles](http://lattes.cnpq.br/2193972715230641)
+
+
 # Theme
 
 Use of middlewares to reduce coupling between integration server and integrated applications
@@ -11,12 +15,22 @@ Use of middlewares to reduce coupling between integration server and integrated 
 
 # Problem
 
+Usuallly software development process of integrated applications, in general, require modifications in each of the integrated tools (or services). In Open-Source that leads the developers to maintain their own forks of each tool that composes the system. That's an intrinsic problem of high coupling between components.
+
+
+# Research Question
+
 How to reduce coupling between integration server and integrated applications in Web context?
 
 
 # Hypothesis
 
 Using plugable middlewares in the application server will reduce coupling between the aplication server and the integrated services.
+
+
+# Goals
+
+Confirming the hypothesis, the goal is to develop a reference architecture of an integration server with better control under coupling between integrated applications and integration servers.
 
 
 # Justification / Motivation
@@ -33,8 +47,6 @@ middlewares would need to be able to listen, fire and propagate event signals.
 
 
 # Literature
-
-* [An Introduction to Software Architecture](http://repository.cmu.edu/compsci/724/?utm_source=repository.cmu.edu%2Fcompsci%2F724&utm_medium=PDF&utm_campaign=PDFCoverPages)
 
 * [Why is the web loosely coupled?: a multi-faceted metric for service design](http://dl.acm.org/citation.cfm?id=1526832)
 
