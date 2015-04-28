@@ -25,7 +25,7 @@ How to reduce coupling between integration server and integrated applications in
 
 # Hypothesis
 
-Using plugable middlewares in the application server will reduce coupling between the aplication server and the integrated services.
+The use of plugable middlewares in the application server will reduce coupling between the aplication server and the integrated services.
 
 
 # Goals
@@ -33,17 +33,17 @@ Using plugable middlewares in the application server will reduce coupling betwee
 Confirming the hypothesis, the goal is to develop a reference architecture of an integration server with better control under coupling between integrated applications and integration servers.
 
 
-# Justification / Motivation
+# Abstract
 
 Integration servers usually concentrates all relevante code and data to allow
 the integrated applications to communicate and in many cases the applications
-also need to be modified in order to reply to the integration server messages.
-
-If application servers could communicate with plugable middlewares and
-the middlewares could pass the messages over to the application then the
-application server would have no direct interaction with the application
-itself. Also, in order to allow applications react to other application events the
-middlewares would need to be able to listen, fire and propagate event signals.
+also need to be modified in order to reply to the integration server messages,
+increasing coupling and reducing the manutenability. If application servers
+could communicate with plugable middlewares and the middlewares could pass the
+messages over to the application then the application server would have no
+direct interaction with the application itself and with that, we expect
+coupling between systems to deacrease and though manutenability to increase
+as result.
 
 
 # Literature
