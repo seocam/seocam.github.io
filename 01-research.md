@@ -78,8 +78,3 @@ as result.
 * [Why is the web loosely coupled?: a multi-faceted metric for service design](http://dl.acm.org/citation.cfm?id=1526832)
 
 * [Coupling Metrics for Predicting Maintainability in Service-Oriented Designs](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4159685)
-
-
-
-
- The impact occur because when one part is changed the integration might be affected, for example, if a part A depends on a database schema on part B when that schema is altered part A will start to malfunction. The evolvability is also likely to be affected by an update because the new code can conflict with the patch applied for integration and this is aggravated by the fact that the integration team and developers from parts are working independently and thus did not coordinate the update.
