@@ -26,7 +26,7 @@ How to build a system composed by integrated parts without compromise maintainab
 ## Hypothesis
 
 1. The use of an integration server with plugable middlewares will reduce coupling between parts and integration server increasing Maintainability.
-1. The use of middlewares will impact system's Efficiency in an acceptable level.
+1. The use of middlewares will impact system's Efficiency in an acceptable level (up to 5%).
 1. The use of middlewares will improve the integration server Portability.
 
 
@@ -56,7 +56,7 @@ The **ISO9126-3:2002** product quality metrics will be used to evaluate a real s
 * Compliance
 
 
-The *Quality Attributes* will be measured using the metrics described on the **ISO9126-3:2002** in two real integrated systems already in use: the *Software Público Brasileiro* (SPB) and *Interlegis' Colab* (IC). The systems were choosen because both are Open-Source and use the same integration server (called *Colab*), and one of then has with modifications directly on Colab's source code (IC) and the other uses middlewares (SPB). The applied metrics will result on absulute values from 0 to 1 for each subcharacteristic and any score improvement will be considered for Maintainability and Portability and a loss of 
+The *Quality Attributes* will be measured using the metrics described on the **ISO9126-3:2002** in two real integrated systems already in use: the *Software Público Brasileiro* (SPB) and *Interlegis' Colab* (IC). The systems were choosen because both are Open-Source and use the same integration server (called *Colab*), and one of then has with modifications directly on Colab's source code (IC) and the other uses middlewares (SPB). The applied metrics will result on absulute values from 0 to 1 for each subcharacteristic. Any score improvement will be considered for Maintainability and Portability and a loss up to 0.05 on Efficiency will be considered satisfactory.
 
 
 
