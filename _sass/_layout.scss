@@ -249,9 +249,22 @@ hr {
     h1 {
         font-weight: bold;
         text-align: center;
+        margin-bottom: 30px;
     }
 
     p {
         text-align: justify;
+    }
+
+    nav {
+      border-bottom: 1px solid #E0E0E0;
+      min-height: 30px;
+      margin-bottom: 20px;
+      margin-top: -15px;
+
+      a {
+        margin: 0 2.5%;
+        color: #000;
+      }
     }
 }
