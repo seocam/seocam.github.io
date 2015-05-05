@@ -10,9 +10,9 @@ permalink: /research/
 **Advisors**: [José Carlos Maldonado](http://lattes.cnpq.br/8807333466702951) - [Paulo Meirelles](http://lattes.cnpq.br/2193972715230641)
 
 
-## Abstract
+## *Abstract*
 
-Context: Integration servers usually concentrates all relevant code and data to allow the integrated applications to communicate. Problem: In many cases the applications also need to be modified in order to reply to the integration server messages, increasing coupling and reducing the maintainability. Objective: This study aims to prove that a system composed by integrated parts using middlewares can be build, without compromise maintainability. Method: Two systems with and without use of middlewares are analyzed with the use of metrics defined on **ISO9126-3:2002** in order to validate the hypothesis. Results: As the metrics defined on **ISO9126-3:2002** given scores in absulute values any improvement in the scores will be considered satisfactory. Conclusion: The use of middlewares is a promising step towards improving the quality of integrated systems. 
+*Context: Integration servers usually concentrates all relevant code and data to allow the integrated applications to communicate. Problem: In many cases the applications also need to be modified in order to reply to the integration server messages, increasing coupling and reducing the maintainability. Objective: This study aims to prove that a system composed by integrated parts using middlewares can be build, without compromise maintainability. Method: Two systems with and without use of middlewares are analyzed with the use of metrics defined on **ISO9126-3:2002** in order to validate the hypothesis. Results: As the metrics defined on **ISO9126-3:2002** given scores in absulute values any improvement in the scores will be considered satisfactory. Conclusion: The use of middlewares is a promising step towards improving the quality of integrated systems.*
 
 
 ## Context
