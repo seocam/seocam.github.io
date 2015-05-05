@@ -9,9 +9,15 @@ permalink: /research/
 
 **Advisors**: [José Carlos Maldonado](http://lattes.cnpq.br/8807333466702951) - [Paulo Meirelles](http://lattes.cnpq.br/2193972715230641)
 
+
+## Abstract
+
+Context: Integration servers usually concentrates all relevant code and data to allow the integrated applications to communicate. Problem: In many cases the applications also need to be modified in order to reply to the integration server messages, increasing coupling and reducing the maintainability. Objective: This study aims to prove that a system composed by integrated parts using middlewares can be build, without compromise maintainability. Method: Two systems with and without use of middlewares are analyzed with the use of metrics defined on **ISO9126-3:2002** in order to validate the hypothesis. Results: As the metrics defined on **ISO9126-3:2002** given scores in absulute values any improvement in the scores will be considered satisfactory. Conclusion: The use of middlewares is a promising step towards improving the quality of integrated systems. 
+
+
 ## Context
 
-There are cases where a single existing system does not meet a set of raised requirements. In those cases using a group of systems instead of just one it is an option but doing so also bring some drawbacks such as multiple user accounts, different user experience and duplicated information. To reduce the drawbacks the systems can be integrated into a new composed system.
+There are cases where a single existing system does not meet a set of raised requirements. The use of a group of systems instead of just one it is an option but doing so also bring some drawbacks such as multiple user accounts, different user experience and duplicated information. To reduce the drawbacks the systems can be integrated into a new composed system.
 
 
 ## Problems and Gaps
@@ -58,19 +64,6 @@ The **ISO9126-3:2002** product quality metrics will be used to evaluate a real s
 
 The *Quality Attributes* will be measured using the metrics described on the **ISO9126-3:2002** in two real integrated systems already in use: the *Software Público Brasileiro* (SPB) and *Interlegis' Colab* (IC). The systems were choosen because both are Open-Source and use the same integration server (called *Colab*), and one of then has with modifications directly on Colab's source code (IC) and the other uses middlewares (SPB). The applied metrics will result on absulute values from 0 to 1 for each subcharacteristic. Any score improvement will be considered for Maintainability and Portability and a loss up to 0.05 on Efficiency will be considered satisfactory.
 
-
-
-## Abstract
-
-Integration servers usually concentrates all relevante code and data to allow
-the integrated applications to communicate and in many cases the applications
-also need to be modified in order to reply to the integration server messages,
-increasing coupling and reducing the maintainability. If application servers
-could communicate with plugable middlewares and the middlewares could pass the
-messages over to the application then the application server would have no
-direct interaction with the application itself and with that, we expect
-coupling between systems to deacrease and though maintainability to increase
-as result.
 
 
 ## Literature
