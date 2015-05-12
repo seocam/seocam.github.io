@@ -42,7 +42,7 @@ Skype: seocam
   * URL: [http://www.tracy.com.br](http://www.tracy.com.br/)
   * Github: <https://github.com/TracyWebTech/>
 
-### Universidade de Brasilia - UNB, Brasília, Brazil
+### Universidade de Brasilia - UnB, Brasília, Brazil
 
   * Period: June/2014 - May/2015
   * Position: Invited Researcher
@@ -50,6 +50,8 @@ Skype: seocam
   * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Redmine and Colab.
   * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
   * URL: <http://beta.softwarepublico.gov.br/>
+
+<div class="page-break"></div>
 
 ### Interlegis (Federal Senate) - Brasília, Brazil
 
@@ -98,6 +100,8 @@ company CEO.
   * Technologies: **Python**, **Django**, **Linux**, JQuery, Bash, XHTML, CSS, AJAX, SQL
   * Responsibilities: Lead the web development team using agile principles mainly Scrum. Develop and maintain the web site of the soccer game Interzone Futebol, a portal designed to support high level of traffic, taking advantage of all the available hardware resources and always aiming for scalability.
 
+<div class="page-break"></div>
+
 ### Interlegis (Federal Senate) - Brasilia, Brazil
 
   * Period: March/2008 - June/2008
@@ -142,6 +146,8 @@ company CEO.
   * Programming Languages: **Python**, Javascript, PHP, Bash, SQL, Java, C, Objective-C and Perl.
   * DBMS: PostgreSQL, SQLite and MySQL.
   * Relevant Keywords: **Django**, hg, git, svn, Apache, WSGI, JQuery, XML, JSON, Ajax, Pentaho, ETL, HTML5, Web Services, Scrum, XP
+
+<div class="page-break"></div>
 
 ## Other Activities:
 
@@ -282,6 +288,5 @@ company CEO.
   * [Linkedin](http://www.linkedin.com/in/seocam)
 
 * * *
-<div class="no-print"></div>
 
 Last update: {{ page.modified }}
