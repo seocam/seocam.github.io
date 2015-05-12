@@ -8,10 +8,10 @@ modified: Apr 08, 2015 - 14:18
 ## Sérgio Oliveira Campos
 
 
-Brazilian, Born on 1986-02-20  
-Living in Ribeirão Preto \- SP, Brazil  
-[seocam@seocam.com](mailto:seocam@seocam.com)  
-Phone: +55 (16) 99786 3202  
+Brazilian, Born on 1986-02-20
+Living in Ribeirão Preto \- SP, Brazil
+[seocam@seocam.com](mailto:seocam@seocam.com)
+Phone: +55 (16) 99786 3202
 Skype: seocam
 
 * * *
@@ -21,7 +21,7 @@ Skype: seocam
 ### Pursuing graduate-level in Computer Science
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
   * Research area: Software Engineering
-  * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications 
+  * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications
   * Estimate Conclusion: November 2016
 
 ### B.Sc. in Informatics
@@ -56,7 +56,7 @@ Skype: seocam
   * Period: August/2013 - December/2013 (_Contractor_)
   * Position: IT Consultant (PNUD) / Web Developer
   * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
-  * Responsibilities: Update and improve the Colab platform (see next entry). 
+  * Responsibilities: Update and improve the Colab platform (see next entry).
   * URL: <https://colab.interlegis.leg.br>
   * Souce Code: <https://github.com/colab-community/colab>
 
@@ -65,7 +65,7 @@ Skype: seocam
   * Period: August/2011 - April/2012 (_Contractor_)
   * Position: IT Consultant (PNUD) / Web Developer
   * Technologies: **Python**, **Django**, Solr, JQuery, XHTML, CSS, AJAX
-  * Responsibilities: Develop an web environment which enables and stimulate the cooperation and synergy among members of the different spheres of governments within the Brazilian civil society. 
+  * Responsibilities: Develop an web environment which enables and stimulate the cooperation and synergy among members of the different spheres of governments within the Brazilian civil society.
   * URL: <http://colab.interlegis.leg.br>
   * Souce Code: <https://bitbucket.org/seocam/atu-colab>
 
@@ -76,7 +76,7 @@ Skype: seocam
   * Technologies: **Python**, **Linux**, Bash, SQL, OpenERP, Magento, Pentaho
   * Project: Lookat is a webshop specialized in professional audio and music instruments. ehind the web frontend there is open-source based platform connecting manufacturers, uppliers and logistic providers.
   * Website: <http://www.lookat.com/>
-  * Responsibilities: Identify and solve the organizational problems in the IT area.  
+  * Responsibilities: Identify and solve the organizational problems in the IT area.
 Lead the technical teams (web, ERP and infrastructure) helping them to define
 milestones, prioritize tasks, and remove blockers. Collaborate in the teams in
 every step of the development process: from the design of the software in
@@ -132,7 +132,7 @@ company CEO.
   * Period: February - September/2005
   * Position: Web Developer / System Administrator
   * Technologies: PHP, CSS, HTML, Javascript, MySQL, PostgreSQL, **Linux**, Windows NT/2000
-  * Responsibilities: Install and maintain the university servers (**Linux** and Windows) including high availability clusters. Develop and maintain dynamic pages using PHP. 
+  * Responsibilities: Install and maintain the university servers (**Linux** and Windows) including high availability clusters. Develop and maintain dynamic pages using PHP.
 
 * * *
 
@@ -153,7 +153,7 @@ company CEO.
 ### [Mozilla Rep](https://wiki.mozilla.org/ReMo)
 
   * Period: September/2011 (present) - Mentor since 2013
-  * Responsibilities: 
+  * Responsibilities:
     * Represent Mozilla in Brasil and Latin America
     * Promote the Mozilla Project and mission
     * Build on and support existing/future local community efforts and programs
@@ -177,8 +177,8 @@ company CEO.
   * **Portuguese:** Native
   * **English:** Fluent
   * **Spanish:** Fluent
-  * **Catalan:** Intermediate 
-  
+  * **Catalan:** Intermediate
+
 * * *
 
 ## Speeches Given:
