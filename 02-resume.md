@@ -8,10 +8,10 @@ modified: Apr 08, 2015 - 14:18
 ## Sérgio Oliveira Campos
 
 
-Brazilian, Born on 1986-02-20
-Living in Ribeirão Preto \- SP, Brazil
-[seocam@seocam.com](mailto:seocam@seocam.com)
-Phone: +55 (16) 99786 3202
+Brazilian, Born on 1986-02-20  
+Living in Ribeirão Preto \- SP, Brazil  
+[seocam@seocam.com](mailto:seocam@seocam.com)  
+Phone: +55 (16) 99786 3202  
 Skype: seocam
 
 * * *
@@ -189,11 +189,13 @@ company CEO.
   * Date/Local: August 21, 2014 - São Carlos - Brazil
 
 ### Talk: Django and Diazo - Visual integration and Single Sign-On for Web Applications
+  * *Invited Speaker*
   * Event: FISL15
   * Date/Local: May 10, 2014 - Porto Alegre - Brazil
 
 ### Talk: The new Colab
 
+  * *Invited Speaker*
   * Event: [VI Encontro GITEC](http://colab.interlegis.leg.br/wiki/VIEncontroGitec) \- Interlegis
   * Date/Local: September 27, 2013 - Brasília - Brazil
 
@@ -204,6 +206,7 @@ company CEO.
 
 ### Talk: [Introduction to HTML 5 and CSS 3](http://youtu.be/iJBvPBUoSMc)
 
+  * *Invited Speaker*
   * Event: [IV Encontro GITEC](http://colab.interlegis.leg.br/wiki/IVEncontroGitec) \- Interlegis
   * Date/Local: October 26, 2011 - Brasília - Brazil
 
@@ -214,6 +217,7 @@ company CEO.
 
 ### Workshop: Python (Batery Included)
 
+  * *Invited Speaker*
   * Event: Semana da Tecnologia - Faculdades COC
   * Date/Local: October 19, 2007 - Ribeirão Preto - SP - Brazil
 
@@ -224,6 +228,7 @@ company CEO.
 
 ### Workshop: Python + AJAX - Developing Web Applications
 
+  * *Invited Speaker*
   * Event: IX Semana da Computação - USP
   * Date/Local: September 20, 2006 - São Carlos - SP - Brazil
 
@@ -238,6 +243,7 @@ company CEO.
 
 ### Workshop: Python - Hands on!
 
+  * *Invited Speaker*
   * Event: Semana da Tecnologia - Faculdades COC
   * Date/Local: May 24, 2006 - Ribeirão Preto - SP - Brazil
 
