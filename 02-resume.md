@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: Apr 08, 2015 - 14:18
+modified: May 12, 2015 - 9:18
 ---
 
 ## Sérgio Oliveira Campos
@@ -180,74 +180,90 @@ company CEO.
   * **Catalan:** Intermediate
 
 * * *
+<div class="no-print"></div>
 
 ## Speeches Given:
+<div class="no-print"></div>
 
 ### Workshop: Python & Django
+<div class="no-print"></div>
 
   * Event: [17ª Semana da Computação](http://semcomp.icmc.usp.br/17/) \- USP
   * Date/Local: August 21, 2014 - São Carlos - Brazil
 
 ### Talk: Django and Diazo - Visual integration and Single Sign-On for Web Applications
+<div class="no-print"></div>
+
   * *Invited Speaker*
   * Event: FISL15
   * Date/Local: May 10, 2014 - Porto Alegre - Brazil
 
 ### Talk: The new Colab
+<div class="no-print"></div>
 
   * *Invited Speaker*
   * Event: [VI Encontro GITEC](http://colab.interlegis.leg.br/wiki/VIEncontroGitec) \- Interlegis
   * Date/Local: September 27, 2013 - Brasília - Brazil
 
 ### Talk: Mozilla and Django: a beautiful couple!
+<div class="no-print"></div>
 
   * Event: FISL14
   * Date/Local: July 3, 2013 - Porto Alegre - Brazil
 
 ### Talk: [Introduction to HTML 5 and CSS 3](http://youtu.be/iJBvPBUoSMc)
+<div class="no-print"></div>
 
   * *Invited Speaker*
   * Event: [IV Encontro GITEC](http://colab.interlegis.leg.br/wiki/IVEncontroGitec) \- Interlegis
   * Date/Local: October 26, 2011 - Brasília - Brazil
 
 ### Talk: virtualenv - Dust-free programming
+<div class="no-print"></div>
 
   * Event: [The Developers Conference 2011](http://www.thedevelopersconference.com.br/tdc/2011/) \- Universidade Anhembi Morumbi
   * Date/Local: July 09, 2011 - São Paulo - SP - Brazil
 
 ### Workshop: Python (Batery Included)
+<div class="no-print"></div>
 
   * *Invited Speaker*
   * Event: Semana da Tecnologia - Faculdades COC
   * Date/Local: October 19, 2007 - Ribeirão Preto - SP - Brazil
 
 ### Talk: Pyjamas: Compiling GTK for web
+<div class="no-print"></div>
 
   * Event: PyCon Brasil - Sociesc
   * Date/Local: September 1st, 2007 - Joinville - SC - Brazil
 
 ### Workshop: Python + AJAX - Developing Web Applications
+<div class="no-print"></div>
 
   * *Invited Speaker*
   * Event: IX Semana da Computação - USP
   * Date/Local: September 20, 2006 - São Carlos - SP - Brazil
 
 ### Workshop: Programming Python
+<div class="no-print"></div>
 
   * Date/Local: June 10, 2006 - São Carlos - SP - Brazil
 
 ### Talk: PyVersionweb - Making version control easier
+<div class="no-print"></div>
 
   * Event: II PyCon Brasil - Interlegis
   * Date/Local: June 1st, 2006 - Brasília - DF - Brazil
 
 ### Workshop: Python - Hands on!
+<div class="no-print"></div>
 
   * *Invited Speaker*
   * Event: Semana da Tecnologia - Faculdades COC
   * Date/Local: May 24, 2006 - Ribeirão Preto - SP - Brazil
 
 ### Workshop: Plone - Introduction
+<div class="no-print"></div>
 
   * Event: II Workshop SAFE - UFMS
   * Date/Local: November 17, 2005 - Campo Grande - MS - Brazil
@@ -255,8 +271,10 @@ company CEO.
 * * *
 
 ## Links:
+<div class="no-print"></div>
 
 ### Relevant profiles
+<div class="no-print"></div>
 
   * [GitHub - Personal](https://github.com/seocam/)
   * [GitHub - Tracy Web Technologies (company)](https://github.com/TracyWebTech/)
@@ -264,5 +282,6 @@ company CEO.
   * [Linkedin](http://www.linkedin.com/in/seocam)
 
 * * *
+<div class="no-print"></div>
 
 Last update: {{ page.modified }}
