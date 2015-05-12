@@ -24,6 +24,7 @@ Skype: seocam
   * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications
   * Estimate Conclusion: November 2016
 
+
 ### B.Sc. in Informatics
 
   * Date: December 2007
