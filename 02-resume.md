@@ -188,10 +188,19 @@ company CEO.
   * Event: [17ª Semana da Computação](http://semcomp.icmc.usp.br/17/) \- USP
   * Date/Local: August 21, 2014 - São Carlos - Brazil
 
+### Talk: Django and Diazo - Visual integration and Single Sign-On for Web Applications
+  * Event: FISL15
+  * Date/Local: May 10, 2014 - Porto Alegre - Brazil
+
 ### Talk: The new Colab
 
   * Event: [VI Encontro GITEC](http://colab.interlegis.leg.br/wiki/VIEncontroGitec) \- Interlegis
   * Date/Local: September 27, 2013 - Brasília - Brazil
+
+### Talk: Mozilla and Django: a beautiful couple!
+
+  * Event: FISL14
+  * Date/Local: July 3, 2013 - Porto Alegre - Brazil
 
 ### Talk: [Introduction to HTML 5 and CSS 3](http://youtu.be/iJBvPBUoSMc)
 
