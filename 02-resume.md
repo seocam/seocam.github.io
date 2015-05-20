@@ -25,7 +25,7 @@ Skype: seocam
   * Estimate Conclusion: November 2016
 
 
-### B.Sc. in Informatics
+### B.Sc. in Information Systems
 
   * Date: December 2007
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
