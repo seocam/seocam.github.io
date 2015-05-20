@@ -22,6 +22,7 @@ Skype: seocam
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
   * Research area: Software Engineering
   * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications
+  * Academic CV: http://lattes.cnpq.br/0733062722548285
   * Estimate Conclusion: November 2016
 
 
