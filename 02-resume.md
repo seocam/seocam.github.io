@@ -22,7 +22,6 @@ Skype: seocam
   * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
   * Research area: Software Engineering
   * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications
-  * Academic CV: http://lattes.cnpq.br/0733062722548285
   * Estimate Conclusion: November 2016
 
 
@@ -284,6 +283,7 @@ company CEO.
 ### Relevant profiles
 <div class="no-print"></div>
 
+  * [Academic CV](http://lattes.cnpq.br/0733062722548285)
   * [GitHub - Personal](https://github.com/seocam/)
   * [GitHub - Tracy Web Technologies (company)](https://github.com/TracyWebTech/)
   * [Bitbucket - Personal](http://bitbucket.org/seocam/)
