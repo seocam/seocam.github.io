@@ -34,6 +34,15 @@ Skype: seocam
 
 ## Work Experience:
 
+### Universidade de Brasilia - UnB, Brasília, Brazil
+
+  * Period: June/2014 - December/2015
+  * Position: Software Architect / Software Engineering Researcher
+  * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
+  * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is a portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Noosfero, Mailman and Colab.
+  * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
+  * URL: <http://beta.softwarepublico.gov.br/>
+
 ### Tracy Web Technologies - Ribeirão Preto, Brazil
 
   * Period: May/2012 (current)
@@ -42,15 +51,6 @@ Skype: seocam
   * Responsibilities: Help in all the areas of the company from sales prospecting and financial to software development. As a developer, work mainly in the backend using Python and Django. Ensure the quality of code and good UX practices.
   * URL: [http://www.tracy.com.br](http://www.tracy.com.br/)
   * Github: <https://github.com/TracyWebTech/>
-
-### Universidade de Brasilia - UnB, Brasília, Brazil
-
-  * Period: June/2014 - May/2015
-  * Position: Invited Researcher
-  * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
-  * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Redmine and Colab.
-  * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
-  * URL: <http://beta.softwarepublico.gov.br/>
 
 <div class="page-break"></div>
 
