@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: May 12, 2015 - 9:18
+modified: August 03, 2015 - 9:53
 ---
 
 ## Sérgio Oliveira Campos
@@ -41,7 +41,7 @@ Skype: seocam
   * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
   * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is a portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Noosfero, Mailman and Colab.
   * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
-  * URL: <http://beta.softwarepublico.gov.br/>
+  * URL: <http://portal.softwarepublico.gov.br/>
 
 ### Tracy Web Technologies - Ribeirão Preto, Brazil
 
@@ -291,4 +291,5 @@ company CEO.
 
 * * *
 
-Last update: {{ page.modified }}
+Web version: http://seocam.com/resume
+Updated: {{ page.modified }}
