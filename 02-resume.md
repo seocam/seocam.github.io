@@ -48,7 +48,7 @@ Skype: seocam
   * Period: May/2012 (current)
   * Position: Co-founder / Web Developer
   * Technologies: **Python**, **Django**, **Puppet**, HTML5
-  * Responsibilities: Help in all the areas of the company from sales prospecting and financial to software development. As a developer, work mainly in the backend using Python and Django. Ensure the quality of code and good UX practices.
+  * Responsibilities: Help in all the areas of the company from sales prospecting and financial to software development. As a developer, work mainly in the backend using Python and Django. Ensure quality of code and good UX practices.
   * URL: [http://www.tracy.com.br](http://www.tracy.com.br/)
   * Github: <https://github.com/TracyWebTech/>
 
