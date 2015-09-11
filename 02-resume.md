@@ -146,7 +146,7 @@ company CEO.
   * Operational System: Posix, OS X and Windows.
   * Programming Languages: **Python**, Javascript, PHP, Bash, SQL, Java, C, Objective-C and Perl.
   * DBMS: PostgreSQL, SQLite and MySQL.
-  * Relevant Keywords: **Django**, hg, git, svn, Apache, WSGI, JQuery, XML, JSON, Ajax, Pentaho, ETL, HTML5, Web Services, Scrum, XP
+  * Relevant Keywords: **Django**, git, Puppet, Chef, Ansible, Celery, RabbitMQ, Redis, WSGI, JSON, Ajax, Pentaho, ETL, HTML5, Web Services, Scrum, XP
 
 <div class="page-break"></div>
 
