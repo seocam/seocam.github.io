@@ -41,7 +41,7 @@ Skype: seocam
   * Technologies: **Python**, **Django**, Solr, Haystack, HTML5, Diazo
   * Project: Portal do Software Público Brasileiro (PSPB). The PSPB is a portal hosting all the Open-Source projects developed by the Brazilian government. In this project the PSPB will be re-written using available platforms such as Gitlab, Noosfero, Mailman and Colab.
   * Responsibilities: Architect the backend of the PSPB. Mentor students in their coding activities.
-  * URL: <http://portal.softwarepublico.gov.br/>
+  * URL: <https://softwarepublico.gov.br/>
 
 ### Tracy Web Technologies - Ribeirão Preto, Brazil
 
