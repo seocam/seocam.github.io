@@ -45,7 +45,7 @@ Skype: seocam
 
 ### Tracy Web Technologies - Ribeirão Preto, Brazil
 
-  * Period: May/2012 (current)
+  * Period: May/2012 - October/2015
   * Position: Co-founder / Web Developer
   * Technologies: **Python**, **Django**, **Puppet**, HTML5
   * Responsibilities: Help in all the areas of the company from sales prospecting and financial to software development. As a developer, work mainly in the backend using Python and Django. Ensure quality of code and good UX practices.
@@ -77,7 +77,7 @@ Skype: seocam
   * Period: September/2009 - June/2011
   * Position: CTO / Lead Software Engineer
   * Technologies: **Python**, **Linux**, Bash, SQL, OpenERP, Magento, Pentaho
-  * Project: Lookat is a webshop specialized in professional audio and music instruments. ehind the web frontend there is open-source based platform connecting manufacturers, uppliers and logistic providers.
+  * Project: Lookat is a webshop specialized in professional audio and music instruments. ehind the web frontend there is open-source based platform connecting manufacturers, suppliers and logistic providers.
   * Responsibilities: Identify and solve the organizational problems in the IT area.
 Lead the technical teams (web, ERP and infrastructure) helping them to define
 milestones, prioritize tasks, and remove blockers. Collaborate in the teams in
