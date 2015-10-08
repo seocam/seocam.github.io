@@ -77,7 +77,7 @@ Skype: seocam
   * Period: September/2009 - June/2011
   * Position: CTO / Lead Software Engineer
   * Technologies: **Python**, **Linux**, Bash, SQL, OpenERP, Magento, Pentaho
-  * Project: Lookat is a webshop specialized in professional audio and music instruments. ehind the web frontend there is open-source based platform connecting manufacturers, suppliers and logistic providers.
+  * Project: Lookat is a webshop specialized in professional audio and music instruments. Behind the web frontend there is open-source based platform connecting manufacturers, suppliers and logistic providers.
   * Responsibilities: Identify and solve the organizational problems in the IT area.
 Lead the technical teams (web, ERP and infrastructure) helping them to define
 milestones, prioritize tasks, and remove blockers. Collaborate in the teams in
