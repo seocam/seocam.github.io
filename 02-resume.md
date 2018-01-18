@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: August 03, 2015 - 9:53
+modified: January 18th, 2018 - 14:43
 ---
 
 ## Sérgio Oliveira Campos
@@ -18,13 +18,6 @@ Skype: seocam
 
 ## Education:
 
-### Pursuing graduate-level in Computer Science
-  * [Universidade de São Paulo](http://en.wikipedia.org/wiki/University_of_São_Paulo) \- Campus São Carlos
-  * Research area: Software Engineering
-  * Theme: Use of middlewares to reduce coupling between integration server (HUB) and integrated applications
-  * Estimate Conclusion: November 2016
-
-
 ### B.Sc. in Information Systems
 
   * Date: December 2007
@@ -33,6 +26,14 @@ Skype: seocam
 * * *
 
 ## Work Experience:
+
+### Crave Food Systems - Ribeirão Preto, Brazil / Providence RI, USA
+
+  * Period: November/2015 - Currently
+  * Position: Chief of Technology
+  * Project: WhatsGood - Discover Local Food. WhatsGood is an online platform to connect food producers with consumers (both retail and wholesale).
+  * Reponsabilities: Build and manage the development team. Help developers to solve the most complex matters. Coordinate priorities and deadlines with the developers and product managers. Ensure the quality of the product developed. Import goods for own use the company. Work in the company administration: including accounting, legal constitution, international money transfer (RDE-IED).
+  * URL: <https://sourcewhatsgood.com/>
 
 ### Universidade de Brasilia - UnB, Brasília, Brazil
 
@@ -190,6 +191,18 @@ company CEO.
 
 ## Speeches Given:
 <div class="no-print"></div>
+
+### Talk: HTTP 101 with Python
+<div class="no-print"></div>
+
+  * Event: FATEC Dev Day \- FATEC
+  * Date/Local: November 15th - Taquaritinga, SP - Brazil
+
+### Keynote: Dynamic Programming and Overlapping Subproblems
+<div class="no-print"></div>
+
+  * Event: [Python Brasil 2016](http://2016.pythonbrasil.org.br/) \- Centrol de Convenções Centro Sul
+  * Date/Local: October 15th - Florianópolis, SC - Brazil
 
 ### Workshop: Python & Django
 <div class="no-print"></div>
