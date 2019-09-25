@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: January 18th, 2018 - 14:43
+modified: September 25th, 2019 - 15:00
 ---
 
 ## Sérgio Oliveira Campos
@@ -183,8 +183,7 @@ company CEO.
 
   * **Portuguese:** Native
   * **English:** Fluent
-  * **Spanish:** Fluent
-  * **Catalan:** Intermediate
+  * **Spanish:** Intermediate
 
 * * *
 <div class="no-print"></div>
