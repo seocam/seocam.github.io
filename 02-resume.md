@@ -27,9 +27,18 @@ Skype: seocam
 
 ## Work Experience:
 
+### Red Hat - Remote
+
+ * Period: February/2020 - August/2020
+ * Position: Senior Software Engineer
+ * Projects: Ansible FreeIPA / Ansible Linux System Roles
+ * Responsibilities: Develop and maintain open source Ansible roles for FreeIPA and for Linux System Roles project. Developed the certificate role for Linux System Roles.
+ * URL: <https://github.com/freeipa/ansible-freeipa> / <https://github.com/linux-system-roles/certificate> 
+
+
 ### Crave Food Systems - Ribeirão Preto, Brazil / Providence RI, USA
 
-  * Period: November/2015 - Currently
+  * Period: November/2015 - January/2020
   * Position: Chief of Technology
   * Project: WhatsGood - Discover Local Food. WhatsGood is an online platform to connect food producers with consumers (both retail and wholesale).
   * Reponsabilities: Build and manage the development team. Help developers to solve the most complex matters. Coordinate priorities and deadlines with the developers and product managers. Ensure the quality of the product developed. Import goods for own use the company. Work in the company administration: including accounting, legal constitution, international money transfer (RDE-IED).
