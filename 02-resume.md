@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: September 25th, 2019 - 15:00
+modified: January 16th, 2021
 ---
 
 ## Sérgio Oliveira Campos
@@ -27,22 +27,33 @@ Skype: seocam
 
 ## Work Experience:
 
+### Liber Capital - Remote
+
+* Perid: September/2020 (Current position)
+* Position: Chief of Technology (CTO)
+* Project: Liber provides different ways for supply chain providers to cash in their account receivables.
+* Responsibilities: Build and manage the technology area, which includes engineering, product, SRE, support and data teams.
+* URL: <https://libercapital.com.br>
+
+
 ### Red Hat - Remote
 
  * Period: February/2020 - August/2020
  * Position: Senior Software Engineer
  * Projects: Ansible FreeIPA / Ansible Linux System Roles
  * Responsibilities: Develop and maintain open source Ansible roles for FreeIPA and for Linux System Roles project. Developed the certificate role for Linux System Roles.
- * URL: <https://github.com/freeipa/ansible-freeipa> / <https://github.com/linux-system-roles/certificate> 
+ * URL: <https://github.com/freeipa/ansible-freeipa> / <https://github.com/linux-system-roles/certificate>
 
 
 ### Crave Food Systems - Ribeirão Preto, Brazil / Providence RI, USA
 
   * Period: November/2015 - January/2020
-  * Position: Chief of Technology
+  * Position: Chief of Technology (CTO)
   * Project: WhatsGood - Discover Local Food. WhatsGood is an online platform to connect food producers with consumers (both retail and wholesale).
   * Reponsabilities: Build and manage the development team. Help developers to solve the most complex matters. Coordinate priorities and deadlines with the developers and product managers. Ensure the quality of the product developed. Import goods for own use the company. Work in the company administration: including accounting, legal constitution, international money transfer (RDE-IED).
   * URL: <https://sourcewhatsgood.com/>
+
+<div class="page-break"></div>
 
 ### Universidade de Brasilia - UnB, Brasília, Brazil
 
@@ -62,7 +73,6 @@ Skype: seocam
   * URL: [http://www.tracy.com.br](http://www.tracy.com.br/)
   * Github: <https://github.com/TracyWebTech/>
 
-<div class="page-break"></div>
 
 ### Interlegis (Federal Senate) - Brasília, Brazil
 
@@ -95,6 +105,8 @@ every step of the development process: from the design of the software in
 whiteboards to the commit into code repositories. Report progress to the
 company CEO.
 
+<div class="page-break"></div>
+
 ### House.ad - Andorra
 
   * Period: January/2009 - August/2009
@@ -109,8 +121,6 @@ company CEO.
   * Position: Web Team Lead / Developer
   * Technologies: **Python**, **Django**, **Linux**, JQuery, Bash, XHTML, CSS, AJAX, SQL
   * Responsibilities: Lead the web development team using agile principles mainly Scrum. Develop and maintain the web site of the soccer game Interzone Futebol, a portal designed to support high level of traffic, taking advantage of all the available hardware resources and always aiming for scalability.
-
-<div class="page-break"></div>
 
 ### Interlegis (Federal Senate) - Brasilia, Brazil
 
@@ -141,6 +151,8 @@ company CEO.
   * Technologies: **Python**, SqlObject, GTK
   * Responsibilities: Adapt open-source OS's using encrypted file system to embed in console machines. Develop an application to easily install the mod OS inside small USB keys.
 
+<div class="page-break"></div>
+
 ### NIT Materiais / UFSCar - São Carlos, Brazil
 
   * Period: February - September/2005
@@ -157,7 +169,6 @@ company CEO.
   * DBMS: PostgreSQL, SQLite and MySQL.
   * Relevant Keywords: **Django**, vagrant, LXC, Docker, git, Puppet, Chef, Ansible, Celery, RabbitMQ, Redis, WSGI, JSON, Ajax, Pentaho, ETL, HTML5, Web Services, Scrum, XP
 
-<div class="page-break"></div>
 
 ## Other Activities:
 
@@ -311,5 +322,4 @@ company CEO.
 
 * * *
 
-Web version: http://seocam.com/resume
-Updated: {{ page.modified }}
+Last updated on {{ page.modified }}. For the most recent version visit: <http://seocam.com/resume>
