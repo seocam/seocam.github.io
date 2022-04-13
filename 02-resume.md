@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-modified: January 16th, 2021
+modified: April 13th, 2022
 ---
 
 ## Sérgio Oliveira Campos
@@ -32,7 +32,8 @@ Skype: seocam
 * Perid: September/2020 (Current position)
 * Position: Chief of Technology (CTO)
 * Project: Liber provides different ways for supply chain providers to cash in their account receivables.
-* Responsibilities: Build and manage the technology area, which includes engineering, product, SRE, support and data teams.
+* Responsibilities: Build and manage the technology area, which includes engineering, SRE, support and data teams. Work with other C-levels and the board to create the company strategy and ensure the team is following the right path. Work together with the people team to develop the company culture and ensure the employee experience is always improving.
+
 * URL: <https://libercapital.com.br>
 
 
