@@ -12,7 +12,7 @@ Brazilian, Born on 1986-02-20
 Living in Ribeirão Preto \- SP, Brazil  
 [seocam@seocam.com](mailto:seocam@seocam.com)  
 Phone: +55 (16) 99786 3202  
-Skype: seocam
+LinkedIn: <https://linkedin.com/in/seocam>
 
 * * *
 
@@ -167,19 +167,19 @@ company CEO.
   * Operational System: Posix, OS X and Windows.
   * Programming Languages: **Python**, Javascript, PHP, Bash, SQL, Java, C, Objective-C and Perl.
   * DBMS: PostgreSQL, SQLite and MySQL.
-  * Relevant Keywords: **Django**, vagrant, LXC, Docker, git, Puppet, Chef, Ansible, Celery, RabbitMQ, Redis, WSGI, JSON, Ajax, Pentaho, ETL, HTML5, Web Services, Scrum, XP
+  * Relevant Keywords: **Django**, Kubernetes, LXC, Docker, git, Puppet, Chef, Ansible, Celery, RabbitMQ, Redis, JSON, ETL, Kanban (certified Kanban Management Professional)
 
 
 ## Other Activities:
 
 ### Plone Commiter
 
-  * Period: May/2014 (present)
+  * Since May/2014
   * Github: <https://github.com/plone/>
 
 ### [Mozilla Rep](https://wiki.mozilla.org/ReMo)
 
-  * Period: September/2011 (present) - Mentor since 2013
+  * Period: September/2011 - March 2016 (Mentor from 2013 to 2016)
   * Responsibilities:
     * Represent Mozilla in Brasil and Latin America
     * Promote the Mozilla Project and mission
